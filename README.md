@@ -16,7 +16,7 @@ I turn raw data into clear dashboards and reports, with a focus on financial and
 
 - **[Procurement Spend Analysis](https://github.com/AhmedSaidData/Procurement-Spend-Analysis)**: Power BI dashboard with a star schema on 326K+ rows, 60+ DAX measures, and vendor concentration analysis.
 - **[HR Attrition Analysis](https://github.com/AhmedSaidData/HR-Attrition-Analysis)**: Attrition, retention, and headcount analysis built in Excel and Power Pivot, now migrating to Power BI.
-- **[Online Retail II Analysis](#)**: Sales and returns analysis on 1M+ transactions, with a custom Calendar table and DAX measures.
+- **[Online Retail II Analysis](https://github.com/AhmedSaidData/Online-Retail-Analysis)**: Sales and returns analysis on 1M+ transactions, with a custom Calendar table and DAX measures.
 
 ## 🔗 Connect
 
